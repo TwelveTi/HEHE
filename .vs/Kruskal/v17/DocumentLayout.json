@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Toanroirac\\Kruskal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC883F67-6DEE-4D0D-9313-6FA017D0DCFF}|Kruskal\\Kruskal.vcxproj|D:\\Toanroirac\\Kruskal\\Kruskal\\Kruskal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC883F67-6DEE-4D0D-9313-6FA017D0DCFF}|Kruskal\\Kruskal.vcxproj|solutionrelative:Kruskal\\Kruskal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kruskal.cpp",
+              "DocumentMoniker": "D:\\Toanroirac\\Kruskal\\Kruskal\\Kruskal.cpp",
+              "RelativeDocumentMoniker": "Kruskal\\Kruskal.cpp",
+              "ToolTip": "D:\\Toanroirac\\Kruskal\\Kruskal\\Kruskal.cpp",
+              "RelativeToolTip": "Kruskal\\Kruskal.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T06:16:31.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
